@@ -9,26 +9,26 @@ Welcome to the ToDo App! This application allows users to manage their tasks eff
 - Add task description
 
 ## Screenshots
-
+*Home Screen*
 <img src="results/home.png" alt="Home Screen" width="300"/>
 <br>
-*Home Screen*
 
+*Add Task Screen*
 <img src="results/create_task.png" alt="Add Task Screen" width="300"/>
 <br>
-*Add Task Screen*
 
+*Task Details Screen*
 <img src="results/task_detail.png" alt="Task Details Screen" width="300"/>
 <br>
-*Task Details Screen*
 
+*Task Operations Screen*
 <img src="results/delete_edit.png" alt="Task Operations Screen" width="300"/>
 <br>
-*Task Operations Screen*
 
+*Task Update Screen*
 <img src="results/update_task.png" alt="Task Update Screen" width="300"/>
 <br>
-*Task Update Screen*
+
 
 ## Installation
 
