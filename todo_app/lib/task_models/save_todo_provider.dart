@@ -12,6 +12,18 @@ class SaveTodoProvider with ChangeNotifier {
     notifyListeners();
   }
 
+  // remove task
+  void removeTask(String id){
+    _todos.removeWhere((task) => task.id == id);
+    notifyListeners();
+  }
+
+  void updateTask(int index, String newTaskName, String description){
+    _todos[index].taskName = newTaskName;
+    _todos[index].description = description;
+    notifyListeners();
+  }
+
   void ChangeStatus(int index){
     todos[index].isDone();
     notifyListeners();

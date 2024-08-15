@@ -1,12 +1,14 @@
 class ToDo {
-  final String taskName;
+  String taskName;
   bool completed;
-  String id;
+  final String id;
+  String description;
 
   ToDo({
     required this.taskName, 
     this.completed = false, 
-    required this.id});
+    required this.id,
+    this.description = ''});
 
     void isDone(){
       completed = !completed;
