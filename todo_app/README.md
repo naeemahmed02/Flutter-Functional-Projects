@@ -13,23 +13,23 @@ Welcome to the ToDo App! This application allows users to manage their tasks eff
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 200px;">
     <p><strong>Home Screen</strong></p>
-    <img src="results/home.png" alt="Home Screen" width="100%"/>
+    <img src="results/home.png" alt="Home Screen" width="60%"/>
   </div>
   <div style="flex: 1; min-width: 200px;">
     <p><strong>Add Task Screen</strong></p>
-    <img src="results/create_task.png" alt="Add Task Screen" width="100%"/>
+    <img src="results/create_task.png" alt="Add Task Screen" width="60%"/>
   </div>
   <div style="flex: 1; min-width: 200px;">
     <p><strong>Task Details Screen</strong></p>
-    <img src="results/task_detail.png" alt="Task Details Screen" width="100%"/>
+    <img src="results/task_detail.png" alt="Task Details Screen" width="60%"/>
   </div>
   <div style="flex: 1; min-width: 200px;">
     <p><strong>Task Operations Screen</strong></p>
-    <img src="results/delete_edit.png" alt="Task Operations Screen" width="100%"/>
+    <img src="results/delete_edit.png" alt="Task Operations Screen" width="60%"/>
   </div>
   <div style="flex: 1; min-width: 200px;">
     <p><strong>Task Update Screen</strong></p>
-    <img src="results/update_task.png" alt="Task Update Screen" width="100%"/>
+    <img src="results/update_task.png" alt="Task Update Screen" width="60%"/>
   </div>
 </div>
 
