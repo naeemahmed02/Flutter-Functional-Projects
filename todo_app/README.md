@@ -10,19 +10,24 @@ Welcome to the ToDo App! This application allows users to manage their tasks eff
 
 ## Screenshots
 
-![Home Screen](results/home.png)
+<img src="results/home.png" alt="Home Screen" width="300"/>
+<br>
 *Home Screen*
 
-![Add Task Screen](results/create_task.png)
+<img src="results/create_task.png" alt="Add Task Screen" width="300"/>
+<br>
 *Add Task Screen*
 
-![Task Details Screen](results/task_detail.png)
+<img src="results/task_detail.png" alt="Task Details Screen" width="300"/>
+<br>
 *Task Details Screen*
 
-![Task Operations](results/delete_edit.png)
+<img src="results/delete_edit.png" alt="Task Operations Screen" width="300"/>
+<br>
 *Task Operations Screen*
 
-![Task Update Screen](results/update_task.png)
+<img src="results/update_task.png" alt="Task Update Screen" width="300"/>
+<br>
 *Task Update Screen*
 
 ## Installation
@@ -58,8 +63,6 @@ Make sure you have Flutter and Dart installed on your machine. Follow the [offic
 - **Delete a Task**: Swipe left on a task to delete it.
 - **Mark as Completed**: Tap the checkbox next to a task to mark it as completed.
 
-
 ## Acknowledgments
 
 - [Flutter](https://flutter.dev/) - Framework used for development.
-
