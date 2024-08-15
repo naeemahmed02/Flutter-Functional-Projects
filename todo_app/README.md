@@ -22,7 +22,7 @@ Welcome to the ToDo App! This application allows users to manage their tasks eff
 ![Task Operations](results/delete_edit.png)
 *Task Operations Screen*
 
-![Task Update Screen](results/update.png)
+![Task Update Screen](results/update_task.png)
 *Task Update Screen*
 
 ## Installation
